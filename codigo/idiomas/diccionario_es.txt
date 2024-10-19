@@ -1,2 +1,0 @@
-key_nombre=nombre
-key_apellido=apellido
