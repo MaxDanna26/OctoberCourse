@@ -11,5 +11,10 @@ int main(int argc, char** argv) {
 	v1.push(23);
 	
 	v1.print();
+	
+	Vector v2(v1);
+	v1.print();
+	v2.print();
+	
 	return 0;
 }
